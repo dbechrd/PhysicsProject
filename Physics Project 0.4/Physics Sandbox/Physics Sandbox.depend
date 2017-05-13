@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1242568730 source:c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\force.cpp
+	"Force.h"
+	"SDL/SDL.h"
+
+1242568714 c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\force.h
+
+1244593440 source:c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\object.cpp
+	"Object.h"
+	"Vertex.h"
+	"Force.h"
+	"Font.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	"SDL/SDL.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<sstream>
+	<string>
+
+1244488185 c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\object.h
+	"Vertex.h"
+	"Force.h"
+	<vector>
+
+1242501714 c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\vertex.h
+
+1244423284 c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\font.h
+	<GL/gl.h>
+	<GL/glu.h>
+
+1243907905 source:c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\objectmanager.cpp
+	"ObjectManager.h"
+
+1243907799 c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\objectmanager.h
+	"Object.h"
+	<vector>
+
+1242496186 source:c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1242430380 c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\timer.h
+
+1242568500 source:c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\vertex.cpp
+	"Vertex.h"
+
+1244426455 source:c:\documents and settings\user\desktop\physics project 0.4\physics sandbox\font.cpp
+	"Font.h"
+	<string>
+
